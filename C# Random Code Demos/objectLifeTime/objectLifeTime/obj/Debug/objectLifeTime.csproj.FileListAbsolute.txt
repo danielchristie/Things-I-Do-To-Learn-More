@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2013\Projects\objectLifeTime\objectLifeTime\bin\Debug\objectLifeTime.exe.config
+c:\users\daniel\documents\visual studio 2013\Projects\objectLifeTime\objectLifeTime\bin\Debug\objectLifeTime.exe
+c:\users\daniel\documents\visual studio 2013\Projects\objectLifeTime\objectLifeTime\bin\Debug\objectLifeTime.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\objectLifeTime\objectLifeTime\obj\Debug\objectLifeTime.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2013\Projects\objectLifeTime\objectLifeTime\obj\Debug\objectLifeTime.exe
+c:\users\daniel\documents\visual studio 2013\Projects\objectLifeTime\objectLifeTime\obj\Debug\objectLifeTime.pdb

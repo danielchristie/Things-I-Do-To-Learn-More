@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2013\Projects\understandingClasses\understandingClasses\bin\Debug\understandingClasses.exe.config
+c:\users\daniel\documents\visual studio 2013\Projects\understandingClasses\understandingClasses\bin\Debug\understandingClasses.exe
+c:\users\daniel\documents\visual studio 2013\Projects\understandingClasses\understandingClasses\bin\Debug\understandingClasses.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\understandingClasses\understandingClasses\obj\Debug\understandingClasses.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2013\Projects\understandingClasses\understandingClasses\obj\Debug\understandingClasses.exe
+c:\users\daniel\documents\visual studio 2013\Projects\understandingClasses\understandingClasses\obj\Debug\understandingClasses.pdb

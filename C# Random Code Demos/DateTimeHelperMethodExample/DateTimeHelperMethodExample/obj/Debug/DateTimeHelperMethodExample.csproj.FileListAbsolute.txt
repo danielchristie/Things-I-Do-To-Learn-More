@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2013\Projects\DateTimeHelperMethodExample\DateTimeHelperMethodExample\bin\Debug\DateTimeHelperMethodExample.exe.config
+c:\users\daniel\documents\visual studio 2013\Projects\DateTimeHelperMethodExample\DateTimeHelperMethodExample\bin\Debug\DateTimeHelperMethodExample.exe
+c:\users\daniel\documents\visual studio 2013\Projects\DateTimeHelperMethodExample\DateTimeHelperMethodExample\bin\Debug\DateTimeHelperMethodExample.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\DateTimeHelperMethodExample\DateTimeHelperMethodExample\obj\Debug\DateTimeHelperMethodExample.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2013\Projects\DateTimeHelperMethodExample\DateTimeHelperMethodExample\obj\Debug\DateTimeHelperMethodExample.exe
+c:\users\daniel\documents\visual studio 2013\Projects\DateTimeHelperMethodExample\DateTimeHelperMethodExample\obj\Debug\DateTimeHelperMethodExample.pdb
