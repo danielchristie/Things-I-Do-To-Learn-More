@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2013\Projects\understandingInheritance\understandingInheritance\bin\Debug\understandingInheritance.exe.config
+c:\users\daniel\documents\visual studio 2013\Projects\understandingInheritance\understandingInheritance\bin\Debug\understandingInheritance.exe
+c:\users\daniel\documents\visual studio 2013\Projects\understandingInheritance\understandingInheritance\bin\Debug\understandingInheritance.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\understandingInheritance\understandingInheritance\obj\Debug\understandingInheritance.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2013\Projects\understandingInheritance\understandingInheritance\obj\Debug\understandingInheritance.exe
+c:\users\daniel\documents\visual studio 2013\Projects\understandingInheritance\understandingInheritance\obj\Debug\understandingInheritance.pdb
