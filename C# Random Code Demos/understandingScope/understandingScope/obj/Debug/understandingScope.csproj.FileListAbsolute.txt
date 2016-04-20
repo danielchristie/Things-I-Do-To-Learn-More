@@ -1,0 +1,5 @@
+c:\users\daniel\documents\visual studio 2013\Projects\understandingScope\understandingScope\bin\Debug\understandingScope.exe.config
+c:\users\daniel\documents\visual studio 2013\Projects\understandingScope\understandingScope\bin\Debug\understandingScope.exe
+c:\users\daniel\documents\visual studio 2013\Projects\understandingScope\understandingScope\bin\Debug\understandingScope.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\understandingScope\understandingScope\obj\Debug\understandingScope.exe
+c:\users\daniel\documents\visual studio 2013\Projects\understandingScope\understandingScope\obj\Debug\understandingScope.pdb
