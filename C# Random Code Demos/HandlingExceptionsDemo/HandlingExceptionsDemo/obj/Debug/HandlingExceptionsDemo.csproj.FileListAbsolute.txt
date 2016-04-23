@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2013\Projects\HandlingExceptionsDemo\HandlingExceptionsDemo\bin\Debug\HandlingExceptionsDemo.exe.config
+c:\users\daniel\documents\visual studio 2013\Projects\HandlingExceptionsDemo\HandlingExceptionsDemo\bin\Debug\HandlingExceptionsDemo.exe
+c:\users\daniel\documents\visual studio 2013\Projects\HandlingExceptionsDemo\HandlingExceptionsDemo\bin\Debug\HandlingExceptionsDemo.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\HandlingExceptionsDemo\HandlingExceptionsDemo\obj\Debug\HandlingExceptionsDemo.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2013\Projects\HandlingExceptionsDemo\HandlingExceptionsDemo\obj\Debug\HandlingExceptionsDemo.exe
+c:\users\daniel\documents\visual studio 2013\Projects\HandlingExceptionsDemo\HandlingExceptionsDemo\obj\Debug\HandlingExceptionsDemo.pdb

@@ -1,0 +1,7 @@
+c:\users\daniel\documents\visual studio 2013\Projects\namespacesReferencingAssembly\namespacesReferencingAssembly\bin\Debug\namespacesReferencingAssembly.exe.config
+c:\users\daniel\documents\visual studio 2013\Projects\namespacesReferencingAssembly\namespacesReferencingAssembly\bin\Debug\namespacesReferencingAssembly.exe
+c:\users\daniel\documents\visual studio 2013\Projects\namespacesReferencingAssembly\namespacesReferencingAssembly\bin\Debug\namespacesReferencingAssembly.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\namespacesReferencingAssembly\namespacesReferencingAssembly\bin\Debug\Tabor.dll
+c:\users\daniel\documents\visual studio 2013\Projects\namespacesReferencingAssembly\namespacesReferencingAssembly\obj\Debug\namespacesReferencingAssembly.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2013\Projects\namespacesReferencingAssembly\namespacesReferencingAssembly\obj\Debug\namespacesReferencingAssembly.exe
+c:\users\daniel\documents\visual studio 2013\Projects\namespacesReferencingAssembly\namespacesReferencingAssembly\obj\Debug\namespacesReferencingAssembly.pdb

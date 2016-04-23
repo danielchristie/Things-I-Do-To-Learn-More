@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2013\Projects\understanding_Enumerations\understanding_Enumerations\bin\Debug\understanding_Enumerations.exe.config
+c:\users\daniel\documents\visual studio 2013\Projects\understanding_Enumerations\understanding_Enumerations\bin\Debug\understanding_Enumerations.exe
+c:\users\daniel\documents\visual studio 2013\Projects\understanding_Enumerations\understanding_Enumerations\bin\Debug\understanding_Enumerations.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\understanding_Enumerations\understanding_Enumerations\obj\Debug\understanding_Enumerations.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2013\Projects\understanding_Enumerations\understanding_Enumerations\obj\Debug\understanding_Enumerations.exe
+c:\users\daniel\documents\visual studio 2013\Projects\understanding_Enumerations\understanding_Enumerations\obj\Debug\understanding_Enumerations.pdb

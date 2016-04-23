@@ -1,0 +1,13 @@
+c:\users\daniel\documents\visual studio 2013\Projects\WPF_Application_EventsDemo\WPF_Application_EventsDemo\bin\Debug\WPF_Application_EventsDemo.exe.config
+c:\users\daniel\documents\visual studio 2013\Projects\WPF_Application_EventsDemo\WPF_Application_EventsDemo\bin\Debug\WPF_Application_EventsDemo.exe
+c:\users\daniel\documents\visual studio 2013\Projects\WPF_Application_EventsDemo\WPF_Application_EventsDemo\bin\Debug\WPF_Application_EventsDemo.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\WPF_Application_EventsDemo\WPF_Application_EventsDemo\obj\Debug\WPF_Application_EventsDemo.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2013\Projects\WPF_Application_EventsDemo\WPF_Application_EventsDemo\obj\Debug\MainWindow.baml
+c:\users\daniel\documents\visual studio 2013\Projects\WPF_Application_EventsDemo\WPF_Application_EventsDemo\obj\Debug\MainWindow.g.cs
+c:\users\daniel\documents\visual studio 2013\Projects\WPF_Application_EventsDemo\WPF_Application_EventsDemo\obj\Debug\App.g.cs
+c:\users\daniel\documents\visual studio 2013\Projects\WPF_Application_EventsDemo\WPF_Application_EventsDemo\obj\Debug\WPF_Application_EventsDemo_MarkupCompile.cache
+c:\users\daniel\documents\visual studio 2013\Projects\WPF_Application_EventsDemo\WPF_Application_EventsDemo\obj\Debug\WPF_Application_EventsDemo.g.resources
+c:\users\daniel\documents\visual studio 2013\Projects\WPF_Application_EventsDemo\WPF_Application_EventsDemo\obj\Debug\WPF_Application_EventsDemo.Properties.Resources.resources
+c:\users\daniel\documents\visual studio 2013\Projects\WPF_Application_EventsDemo\WPF_Application_EventsDemo\obj\Debug\WPF_Application_EventsDemo.csproj.GenerateResource.Cache
+c:\users\daniel\documents\visual studio 2013\Projects\WPF_Application_EventsDemo\WPF_Application_EventsDemo\obj\Debug\WPF_Application_EventsDemo.exe
+c:\users\daniel\documents\visual studio 2013\Projects\WPF_Application_EventsDemo\WPF_Application_EventsDemo\obj\Debug\WPF_Application_EventsDemo.pdb

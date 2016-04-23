@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2013\Projects\understandEvent-DrivenProgramming\understandEvent-DrivenProgramming\bin\Debug\understandEvent-DrivenProgramming.exe.config
+c:\users\daniel\documents\visual studio 2013\Projects\understandEvent-DrivenProgramming\understandEvent-DrivenProgramming\bin\Debug\understandEvent-DrivenProgramming.exe
+c:\users\daniel\documents\visual studio 2013\Projects\understandEvent-DrivenProgramming\understandEvent-DrivenProgramming\bin\Debug\understandEvent-DrivenProgramming.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\understandEvent-DrivenProgramming\understandEvent-DrivenProgramming\obj\Debug\understandEvent-DrivenProgramming.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2013\Projects\understandEvent-DrivenProgramming\understandEvent-DrivenProgramming\obj\Debug\understandEvent-DrivenProgramming.exe
+c:\users\daniel\documents\visual studio 2013\Projects\understandEvent-DrivenProgramming\understandEvent-DrivenProgramming\obj\Debug\understandEvent-DrivenProgramming.pdb

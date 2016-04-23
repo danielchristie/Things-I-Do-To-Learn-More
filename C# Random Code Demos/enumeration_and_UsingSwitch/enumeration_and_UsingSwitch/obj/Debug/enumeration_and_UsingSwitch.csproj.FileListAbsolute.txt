@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2013\Projects\enumeration_and_UsingSwitch\enumeration_and_UsingSwitch\bin\Debug\enumeration_and_UsingSwitch.exe.config
+c:\users\daniel\documents\visual studio 2013\Projects\enumeration_and_UsingSwitch\enumeration_and_UsingSwitch\bin\Debug\enumeration_and_UsingSwitch.exe
+c:\users\daniel\documents\visual studio 2013\Projects\enumeration_and_UsingSwitch\enumeration_and_UsingSwitch\bin\Debug\enumeration_and_UsingSwitch.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\enumeration_and_UsingSwitch\enumeration_and_UsingSwitch\obj\Debug\enumeration_and_UsingSwitch.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2013\Projects\enumeration_and_UsingSwitch\enumeration_and_UsingSwitch\obj\Debug\enumeration_and_UsingSwitch.exe
+c:\users\daniel\documents\visual studio 2013\Projects\enumeration_and_UsingSwitch\enumeration_and_UsingSwitch\obj\Debug\enumeration_and_UsingSwitch.pdb
