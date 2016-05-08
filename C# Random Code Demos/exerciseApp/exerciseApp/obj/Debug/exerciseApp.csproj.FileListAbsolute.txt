@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2013\Projects\exerciseApp\exerciseApp\bin\Debug\exerciseApp.exe.config
+c:\users\daniel\documents\visual studio 2013\Projects\exerciseApp\exerciseApp\obj\Debug\exerciseApp.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2013\Projects\exerciseApp\exerciseApp\bin\Debug\exerciseApp.exe
+c:\users\daniel\documents\visual studio 2013\Projects\exerciseApp\exerciseApp\bin\Debug\exerciseApp.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\exerciseApp\exerciseApp\obj\Debug\exerciseApp.exe
+c:\users\daniel\documents\visual studio 2013\Projects\exerciseApp\exerciseApp\obj\Debug\exerciseApp.pdb
