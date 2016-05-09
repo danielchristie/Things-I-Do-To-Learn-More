@@ -44,7 +44,7 @@ namespace exerciseTrainer.DanielChristie {
                     //Should receive 0 if TryParse failed because there were letters in the user input or it was empty
                     if ((input1 != "QUIT") && (session == 0)) {
                         errorColor();
-                        Console.WriteLine("Error, invalid entry! Expected a positive numeric value.");
+                        Console.WriteLine("Error, invalid entry! Expected a positive numeric value without decimals or text.");
                         quit = false;
                     }
                     while (totalMin < session) {
@@ -66,7 +66,7 @@ namespace exerciseTrainer.DanielChristie {
                         //Should receive 0 if TryParse failed because there were letters in the user input or it was empty
                         if ((input2 != "QUIT") && (checkNum == 0)) {
                             errorColor();
-                            Console.WriteLine("Error, invalid entry! Expected a positive numeric value.");
+                            Console.WriteLine("Error, invalid entry! Expected a positive numeric value without decimals or text.");
                             //break; //continue;
                         } 
                         else {
