@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2013\Projects\CountToYourNumber\CountToYourNumber\bin\Debug\CountToYourNumber.exe.config
+c:\users\daniel\documents\visual studio 2013\Projects\CountToYourNumber\CountToYourNumber\bin\Debug\CountToYourNumber.exe
+c:\users\daniel\documents\visual studio 2013\Projects\CountToYourNumber\CountToYourNumber\bin\Debug\CountToYourNumber.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\CountToYourNumber\CountToYourNumber\obj\Debug\CountToYourNumber.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2013\Projects\CountToYourNumber\CountToYourNumber\obj\Debug\CountToYourNumber.exe
+c:\users\daniel\documents\visual studio 2013\Projects\CountToYourNumber\CountToYourNumber\obj\Debug\CountToYourNumber.pdb
